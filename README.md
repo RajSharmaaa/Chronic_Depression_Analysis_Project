@@ -7,7 +7,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-400K%2B%20records-blueviolet)
 
 > **Tools:** SQL • Python • Power BI  
-> **Dataset Size:** 400K+ records  
+> **Dataset Size:** 400K+ records
 > **Objective:** Identify key depression risk drivers and enable data-driven insights
 
 ---
@@ -46,7 +46,7 @@ The core goal is to uncover meaningful patterns, correlations, and risk indicato
 - **Lifestyle Risk Patterns**: Evaluated the intersection of smoking habits, physical activity, and alcohol consumption to segment risk groups.
 - **Health Indicators**: Explored associations between dietary habits, sleep behavior, and chronic medical conditions.
 - **Family History**: Engineered a "Family Health Risk" indicator combining family depression history and chronic health status.
-- **Socio-Economic Factors**: Performed correlation analysis between income levels and mental illness history.
+- **Socio-Economic Factors**: Performed correlation analysis between income levels and mental illness history.  
 - **Employment Impact**: Compared average income and mental health indicators between employed and unemployed populations.
 
 ---
@@ -62,9 +62,3 @@ The core goal is to uncover meaningful patterns, correlations, and risk indicato
 ## ✅ Conclusion
 
 This project demonstrates the power of combining SQL-driven exploratory analysis with interactive Power BI visualization. By transforming large-scale health data (400K+ rows) into actionable insights, we can better identify demographic and lifestyle patterns associated with depression risk, providing a robust foundation for mental health research and decision-making.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
