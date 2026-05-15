@@ -1,0 +1,10 @@
+# SQL temporary files
+*.tmp
+
+# Power BI temporary files
+*.pbix.tmp
+*.pbit.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
